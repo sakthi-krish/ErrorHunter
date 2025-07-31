@@ -15,8 +15,3 @@ if __name__ == "__main__":
       res = grade_system(num)
       print(res)
  
-        return "C"   
-    else:
-        return "F"  
-
- 
